@@ -40,11 +40,14 @@
                 <a href="/">Home</a>
             </li>
             <li>
-                <a href="/halamandua">- Hal 2</a>
+                <a href="/halamandua">Dialectic</a>
             </li>
             <li>
-                <a href="/halamantiga">- Hal 3</a>
+                <a href="/halamantiga">Coklat Karamel</a>
             </li>
+			<li>
+				<a href="/tabelmhs">Tabel Mahasiswa</a>
+			</li>
         </ul>
     </aside>
 

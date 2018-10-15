@@ -22,5 +22,8 @@ Route::get('/halamandua', function () {
 Route::get('/halamantiga', function () {
     return view('halamantiga');
 });
+Route::get('/tabelmhs', function () {
+    return view('tabelmhs');
+});
 Route::get('yuna/tambah','mindie@tambah');
 Route::resource('yuna','mindie');
